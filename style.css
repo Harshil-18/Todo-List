@@ -278,7 +278,7 @@ input:checked + span {
   
     .todos-container {
       height: auto;
-      max-height: 350px; 
+      max-height: 300px; 
       overflow: auto;
     }
     
@@ -359,7 +359,7 @@ input:checked + span {
   
     .todos-container {
       height: auto;
-      max-height: 350px; 
+      max-height: 300px; 
       overflow: auto;
     }
 
